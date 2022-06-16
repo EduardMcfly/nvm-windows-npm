@@ -1,6 +1,6 @@
 {
   "name": "nvm-windows-npm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nvm-windows-npm is a tool for managing npm on Windows.",
   "dependencies": {
     "yargs": "^17.5.1"
