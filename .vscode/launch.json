@@ -9,8 +9,8 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}\\main.js",
-      "args": ["install", "8"]
+      "program": "${workspaceFolder}\\lib\\main.js",
+      "args": ["install", "latest"]
     }
   ]
 }
